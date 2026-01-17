@@ -37,5 +37,5 @@ The objective of this task was to create a machine learning model that predicts 
 
 ### 👤 Author
 **Prajwal Dhande**
-* [LinkedIn Profile](https://www.linkedin.com/in/prajwal-dhande-06797a233/)
-* [GitHub Profile](https://github.com/PrajwalDhande)
+* [LinkedIn Profile](www.linkedin.com/in/prajwal-dhande-57384b380)
+
