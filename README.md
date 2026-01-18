@@ -28,7 +28,7 @@ Across these 5 projects, the following technologies were utilized:
 ## 👤 Author
 **Prajwal Dhande**
 * **LinkedIn:** [Prajwal Dhande](https://www.linkedin.com/in/prajwal-dhande-57384b380)
-* **GitHub:** [PrajwalDhande](https://github.com/PrajwalDhande)
+
 
 ---
 *Completed as part of the Prodigy Infotech Internship Program.*
